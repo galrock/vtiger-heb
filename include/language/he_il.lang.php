@@ -43,6 +43,8 @@
 
 
 $app_strings = Array(
+'Documents' => 'מסמכים',
+'VTLIB_LBL_MODULE_MANAGER'=>'ניהול מודולים',
 'MSG_AUTO_GEN_ON_SAVE'=>'מיוצר אוטומטי לאחר שמירה',
 'SINGLE_Accounts' => 'לקוח',
 'SINGLE_Contacts' => 'איש קשר',
@@ -954,6 +956,7 @@ $app_strings = Array(
 
 //Added for 4.2 Patch I
 'LBL_HOME_KEY_METRICS'=>'נתונים עיקריים',
+
 'LBL_HOME_METRICS'=>'נתונים',
 'LBL_HOME_COUNT'=>'כמות',
 

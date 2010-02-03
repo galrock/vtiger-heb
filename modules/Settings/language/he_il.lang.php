@@ -43,6 +43,8 @@
 
 
 $mod_strings = Array(
+'VTLIB_LBL_MODULE_MANAGER_CUSTOMMOD'=>'מודולים מותאמים אישית',
+'VTLIB_LBL_MODULE_MANAGER_STANDARDMOD'=>'מודולים סטנדרטיים',
 
 'LBL_MODULE_NAME'=>'הגדרות',
 
