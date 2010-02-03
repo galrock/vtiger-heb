@@ -169,7 +169,7 @@ $mod_strings = Array(
 'Order Id'=>'מספר הזמנה',
 'LBL_MY_TOP_SO'=>'My Top Open Sales Orders',
 'Status'=>'מצב',
-'SalesOrder'=>'Sales Order',
+'SalesOrder'=>'הזמנה למכירה',
 
 //Added for existing Picklist Entries
 
