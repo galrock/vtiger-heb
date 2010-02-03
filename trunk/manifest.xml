@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<module>
+	<type>language</type>
+	<name>Hebrew</name>
+	<label>Hebrew</label>
+	<prefix>he_il</prefix>
+	<dependencies>
+		<vtiger_version>5.11</vtiger_version>
+	</dependencies>
+</module>
+
