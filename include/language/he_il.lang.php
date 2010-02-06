@@ -43,6 +43,7 @@
 
 
 $app_strings = Array(
+'LBL_CANCEL'=>'ביטול',
 'Documents' => 'מסמכים',
 'VTLIB_LBL_MODULE_MANAGER'=>'ניהול מודולים',
 'MSG_AUTO_GEN_ON_SAVE'=>'מיוצר אוטומטי לאחר שמירה',
@@ -1244,6 +1245,7 @@ $app_list_strings = Array(
 'meeting_status_dom' => Array('Planned'=>'בתכנון'
 
 		, 'Held'=>'נערכה'
+
 
 		, 'Not Held'=>'לא נערכה'
 
