@@ -18,6 +18,8 @@
  ********************************************************************************/
  
 $mod_strings = Array(
+'Key Metrics'=>'מדדים עיקריים',
+'LBL_SAVE'=>'שמירה',
 'LBL_NEW_FORM_TITLE'=>'איש קשר חדש',
 'LBL_FIRST_NAME'=>'שם משפחה:',
 'LBL_LAST_NAME'=>'שם משפחה:',
@@ -57,8 +59,12 @@ $mod_strings = Array(
 'Last Week'=>'שבוע שעבר',
 'Last 2 Days'=>'היומיים האחרונים',
 'Last Ten Days'=>'10 הימים האחרונים',
-
-
+'Top Accounts'=>'חשבונות מובילים',
+'Top Potentials'=>'הזדמנויות מובילים',
+'Top Trouble Tickets'=>'כרטיסים מובילים',
+'Top Invoices'=>'חשבוניות מובילות',
+'My Recent FAQs'=>'שאלות נפוצות אחרונות שלי',
+'Tag Cloud'=>'ענן התגיות',
 );
 
 ?>
