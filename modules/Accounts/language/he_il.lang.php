@@ -209,7 +209,7 @@ $mod_strings = Array(
 'LBL_END_DATE' => 'תאריך סיום',
 
 // Account Hierarchy
-'LBL_SHOW_ACCOUNT_HIERARCHY' => 'הצג הירארכיה לקוח', 
+'LBL_SHOW_ACCOUNT_HIERARCHY' => 'הצג היררכיית לקוח', 
 
 //Module Sequence Numbering
 'Account No'=>'מספר הלקוח',
