@@ -20,6 +20,7 @@
 $mod_strings = Array(
 'Key Metrics'=>'מדדים עיקריים',
 'LBL_SAVE'=>'שמירה',
+'LBL_CANCEL'=>'ביטול',
 'LBL_NEW_FORM_TITLE'=>'איש קשר חדש',
 'LBL_FIRST_NAME'=>'שם משפחה:',
 'LBL_LAST_NAME'=>'שם משפחה:',
