@@ -42,8 +42,8 @@ $mod_strings = Array(
 'LBL_OPENCAL'=>'פתיחת יומן',
 
 'LBL_CALL' => 'שיחת טלפון',
-'LBL_MEET' => 'Meeting',
-'LBL_APPNT' => 'Appointment',
+'LBL_MEET' => 'זימון',
+'LBL_APPNT' => 'פגישה',
 'LBL_NEW_APPNT' => 'פגישה חדשה',
 'LBL_NEW_APPNT_INFO' => 'יצירת פגישה חדשה',
 'LBL_VIEW_DAY_APPNT_INFO' => 'הצגת הפגישות ליום זה',
