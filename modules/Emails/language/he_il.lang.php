@@ -72,7 +72,7 @@ $mod_strings = Array(
 
 // Added Fields
 // Contacts-SubPanelViewContactsAndUsers.php
-'LBL_BULK_MAILS'=>'Bulk Mails',
+'LBL_BULK_MAILS'=>'מיילים בכמות גדולה',
 'LBL_ATTACHMENT'=>'מסמך מצורף',
 'LBL_DESCRIPTION'=>'תיאור',
 'LBL_UPLOAD'=>'העלאה',
@@ -89,8 +89,8 @@ $mod_strings = Array(
 
 
 //for v4 release added
-'LBL_NEW_LEAD'=>'New Lead',
-'LBL_LEAD_TITLE'=>'Leads',
+'LBL_NEW_LEAD'=>'הפנייה חדשה',
+'LBL_LEAD_TITLE'=>'הפניות',
 
 'LBL_NEW_PRODUCT'=>'מוצר חדש',
 'LBL_PRODUCT_TITLE'=>'מוצרים',
@@ -100,14 +100,14 @@ $mod_strings = Array(
 'LBL_ACCOUNT_TITLE'=>'חשבונות',
 
 // Added vtiger_fields after vtiger4 - Beta
-'LBL_USER_TITLE'=>'Users',
+'LBL_USER_TITLE'=>'משתמשים',
 'LBL_NEW_USER'=>'משתמש חדש',
 
 // Added for 4 GA
 'LBL_TOOL_FORM_TITLE'=>'כלי דוא&quot;ל',
 //Added for 4GA
 'Date & Time Sent'=>'תאריך ושעת המשלוח',
-'Sales Enity Module'=>'Sales Enity Module',
+'Sales Enity Module'=>'מודול מכירות',
 'Activtiy Type'=>'סוג פעילות',
 'Related To'=>'קשור אל',
 'Assigned To'=>'מצוות אל',
