@@ -62,7 +62,7 @@ $mod_strings = Array(
 
 'LBL_PHONE'=>'טלפון:',
 
-'LBL_EMAIL_ADDRESS'=>'Email',
+'LBL_EMAIL_ADDRESS'=>'כתובת אימייל',
 
 'LBL_TRANSCURR'=>'העברת המטבע של המשתמש אל',
 
@@ -97,9 +97,9 @@ $mod_strings = Array(
 
 'CONTACTCUSTOMFIELDS'=>'שדות מותאמים אישית לאנשי קשר',
 
-'OPPORTUNITYCUSTOMFIELDS'=>'Potential Custom Fields',
+'OPPORTUNITYCUSTOMFIELDS'=>'שדות מותאמים להזדמנויות',
 
-'HELPDESKCUSTOMFIELDS'=>'Helpdesk Custom Fields',
+'HELPDESKCUSTOMFIELDS'=>'לתמיכה שדות מותאמים',
 
 'PRODUCTCUSTOMFIELDS'=>'שדות מותאמים אישית למוצרים',
 
@@ -118,9 +118,9 @@ $mod_strings = Array(
 
 'EDITCONTACTPICKLISTVALUES'=>'עריכת רשימת הבחירה של אנשי קשר ',
 
-'EDITOPPORTUNITYPICKLISTVALUES'=>'Edit Potential Picklist ',
+'EDITOPPORTUNITYPICKLISTVALUES'=>'עריכת רשימת הבחירה של הזדמנויות ',
 
-'EDITHELPDESKPICKLISTVALUES'=>'Edit HelpDesk Picklist ',
+'EDITHELPDESKPICKLISTVALUES'=>'עריכת רשימת הבחירה של תמיכה ',
 
 'EDITPRODUCTPICKLISTVALUES'=>'עריכת רשימת הבחירה של מוצרים ',
 
@@ -157,7 +157,7 @@ $mod_strings = Array(
 
 'Potentials'=>'הזדמנות',
 
-'HelpDesk'=>'HelpDesk',
+'HelpDesk'=>'תמיכה',
 
 'Products'=>'מוצר',
 
