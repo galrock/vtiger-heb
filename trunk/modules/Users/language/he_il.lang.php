@@ -98,7 +98,7 @@ $mod_strings = Array(
 'LBL_EMAIL'=>'מספר דוא&quot;ל',
 'LBL_HOME_PHONE'=>'טלפון בבית',
 'LBL_ADDRESS_INFORMATION'=>'כתובת משתמש',
-'LBL_CAL_HRFORMAT'=>'Calendar Time Format',
+'LBL_CAL_HRFORMAT'=>'פורמט תאריך',
 'LBL_CAL_DURATION'=>'יום מתחיל ב',
 'LBL_PRIMARY_ADDRESS'=>'כתובת עיקרית:',
 
