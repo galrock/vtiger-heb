@@ -81,7 +81,7 @@ $mod_strings = Array(
 'Good'=>'טוב',
 'Average'=>'ממוצע',
 'Poor'=>'גרוע',
-			      
+'Campaign No' = 'מס מסע פרסום'			      
 
 );
 
