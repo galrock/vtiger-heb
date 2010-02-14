@@ -82,7 +82,7 @@ $mod_strings = Array(
 'NTC_COPY_BILLING_ADDRESS'=>'העתק כתובת חיוב לכתובת למשלוח',
 'NTC_COPY_SHIPPING_ADDRESS'=>'העתק כתובת משלוח לכתובת חיוב',
 'NTC_REMOVE_MEMBER_ORG_CONFIRMATION'=>'?האם אתה בטוח שאתה רוצה להסיר את רשומה זו כחבר ארגון',
-'LBL_DUPLICATE'=>'Potential Duplicate Accounts',
+'LBL_DUPLICATE'=>'אפשרות לחשבון כפול',
 'MSG_DUPLICATE' => 'Creating this vtiger_account may vtiger_potentialy create a duplicate vtiger_account. You may either select an vtiger_account from the list below or you may click on Create New Account to continue creating a new vtiger_account with the previously entered data.',
 
 'LBL_INVITEE'=>'אנשי קשר',
@@ -108,7 +108,7 @@ $mod_strings = Array(
 
 //Added vtiger_fields after RC1 - Release
 'LBL_ALL'=>'הכל',
-'LBL_PROSPECT'=>'Prospect',
+'LBL_PROSPECT'=>'לקוח פוטנציאלי',
 'LBL_INVESTOR'=>'משקיע',
 'LBL_RESELLER'=>'המשווק',
 'LBL_PARTNER'=>'שוטף',
@@ -170,7 +170,7 @@ $mod_strings = Array(
 'Invoice Id'=>'מספר חשבונית',
 'LBL_MY_TOP_INVOICE'=>'החשבוניות הפתוחות שלי',
 'LBL_INVOICE_NAME'=>'שם חשבונית:',
-'Purchase Order'=>'הזמנת רכישה',
+'Purchase Order'=>'הזמנת רכש',
 'Status'=>'סטטוס',
 'Id'=>'מספר חשבונית',
 'Invoice'=>'חשבונית',
