@@ -81,12 +81,12 @@ $mod_strings = Array(
 'LBL_TERMS_INFORMATION'=>'תנאים',
 'NTC_COPY_BILLING_ADDRESS'=>'העתק כתובת חיוב לכתובת למשלוח',
 'NTC_COPY_SHIPPING_ADDRESS'=>'העתק כתובת משלוח לכתובת חיוב',
-'NTC_REMOVE_MEMBER_ORG_CONFIRMATION'=>'Are you sure you want to remove this record as a member organization?',
+'NTC_REMOVE_MEMBER_ORG_CONFIRMATION'=>'?האם אתה בטוח שאתה רוצה להסיר את רשומה זו כחבר ארגון',
 'LBL_DUPLICATE'=>'Potential Duplicate Accounts',
 'MSG_DUPLICATE' => 'Creating this vtiger_account may vtiger_potentialy create a duplicate vtiger_account. You may either select an vtiger_account from the list below or you may click on Create New Account to continue creating a new vtiger_account with the previously entered data.',
 
 'LBL_INVITEE'=>'אנשי קשר',
-'ERR_DELETE_RECORD'=>"A record number must be specified to delete the vtiger_account.",
+'ERR_DELETE_RECORD'=>"חובה לציין מספר רשומה על מנת למחוק חשבון",
 
 'LBL_SELECT_ACCOUNT'=>'בחר לקוח',
 'LBL_GENERAL_INFORMATION'=>'מידע כללי',
@@ -107,11 +107,11 @@ $mod_strings = Array(
 'LBL_CONTACT_TITLE'=>'אנשי קשר',
 
 //Added vtiger_fields after RC1 - Release
-'LBL_ALL'=>'All',
+'LBL_ALL'=>'הכל',
 'LBL_PROSPECT'=>'Prospect',
-'LBL_INVESTOR'=>'Investor',
-'LBL_RESELLER'=>'Reseller',
-'LBL_PARTNER'=>'Partner',
+'LBL_INVESTOR'=>'משקיע',
+'LBL_RESELLER'=>'המשווק',
+'LBL_PARTNER'=>'שוטף',
 
 // Added for 4GA
 'LBL_TOOL_FORM_TITLE'=>'Account Tools',
@@ -185,6 +185,13 @@ $mod_strings = Array(
 //Added to Custom Invoice Number
 'Invoice No'=>'מספר חשבונית',
 'Adjustment'=>'התאמה',
+'Tax Type'=>'סוג המס',
+'Discount Percent'=>'אחוז הנחה',
+'Discount Amount'=>'סכום הנחה',
+'No'=>'No',
+'Date'=>'תאריך',
+'Documents'=>'מסמכים',
+
 );
 
 ?>
