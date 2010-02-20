@@ -43,6 +43,7 @@
 
 
 $app_strings = Array(
+'LBL_CREATING_NEW_Account'=>'יצירת לקוח חדש',
 'LBL_CANCEL'=>'ביטול',
 'Documents' => 'מסמכים',
 'VTLIB_LBL_MODULE_MANAGER'=>'ניהול מודולים',
@@ -844,9 +845,9 @@ $app_strings = Array(
 'Tools'=>'כלים',
 'Settings'=>'הגדרות',
 
-'LBL_INFORMATION'=>' - מידע',
+'LBL_INFORMATION'=>'מידע',
 'LBL_MORE'=>'נוסף',
-'LBL_BASIC'=>'פרטים בסיסיים',
+'LBL_BASIC'=>'בסיסי',
 'LBL_CREATING'=>'יצירה',
 'LBL_EDITING'=>'עריכה',
 'LBL_NEW'=>'חדש',
@@ -1027,8 +1028,8 @@ $app_strings = Array(
 'LBL_RECORDS'=>'רשומות',
 'LBL_SCROLL'=>'[חזרה למעלה]',
 'LBL_EXPAND_COLLAPSE'=>'הרחבה/צמצום',
-'LBL_RCPY_ADDRESS'=>'העתקת כתובת המשלוח',
-'LBL_LCPY_ADDRESS'=>'העתקת כתובת החיוב',
+'LBL_RCPY_ADDRESS'=>'העתקת כתובת למשלוח',
+'LBL_LCPY_ADDRESS'=>'העתקת כתובת לחיוב',
 'LBL_RECORD_ID'=>'מספר רשומה',
 'LBL_ACTION_DATE'=>'תאריך פעולה',
 'LBL_HOMEPAGE_DASHBOARD'=>'גרף עמוד הבית',
