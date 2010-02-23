@@ -43,6 +43,8 @@
 
 
 $app_strings = Array(
+'LBL_ON'=>'על',
+'LBL_DETAILS'=>'פרטי',
 'LBL_CREATING_NEW_Account'=>'יצירת לקוח חדש',
 'LBL_CANCEL'=>'ביטול',
 'Documents' => 'מסמכים',
