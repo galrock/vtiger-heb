@@ -43,6 +43,7 @@
 
 
 $app_strings = Array(
+'LBL_CREATE_MERGE_TEMPLATE'=>'צור תבניות למיזוג דואר',
 'LBL_ON'=>'על',
 'LBL_DETAILS'=>'פרטי',
 'LBL_CREATING_NEW_Account'=>'יצירת לקוח חדש',
