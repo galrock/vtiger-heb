@@ -21,6 +21,19 @@
  ********************************************************************************/
  
 $mod_strings = Array(
+'LBL_MAILER_EXPORT_NOTCHECKED'=>'לא מסומן',
+'LBL_MAILER_EXPORT_CHECKED'=>'מסומן',
+'LBL_MAILER_EXPORT_IGNORE'=>'--התעלם--',
+'LBL_EXPORT_RESULTS_GO'=>'יצוא',
+'LBL_EXPORT_RESULTS_FULL'=>'LBL_EXPORT_RESULTS_FULL',
+'LBL_EXPORT_RESULTS_EMAIL_CORP'=>'LBL_EXPORT_RESULTS_EMAIL_CORP',
+'LBL_EXPORT_RESULTS_EMAIL'=>'יצוא נתוני תוכנית דיוור',
+'LBL_MAILER_EXPORT_RESULTS_DESCR'=>'הנתונים יאספו מלקוחות ואנשי הקשר שלהם אשר הוחזרו מן החיפוש הקודם',
+'LBL_MAILER_EXPORT_RESULTS_TYPE'=>'בחר סוג יצוא:',
+'LBL_MAILER_EXPORT_CONTACTS_DESCR'=>'ניתן לבחור אנשי קשר גם דרך &quot;שדות מותאמים אישית&quot; וכמה שדות סטנדרטיים',
+'LBL_MAILER_EXPORT_CONTACTS_TYPE'=>'בחר אנשי קשר:',
+'LBL_MAILER_EXPORT'=>'Mailer Export',
+'LBL_ACCOUNT_EXIST'=>'חשבון כבר קיים',
 'LBL_MODULE_NAME'=>'לקוחות',
 'LBL_MODULE_TITLE'=>'לקוחות: בית',
 'LBL_SEARCH_FORM_TITLE'=>'חיפוש לקוח',
