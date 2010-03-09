@@ -33,7 +33,7 @@ $mod_strings = Array(
 'LBL_LIST_DATE'=>'תאריך משלוח',
 'LBL_LIST_TIME'=>'שעת משלוח',
 
-'ERR_DELETE_RECORD'=>"A record number must be specified to delete the vtiger_account.",
+'ERR_DELETE_RECORD'=>"A record number must be specified to delete the crm account.",
 'LBL_DATE_SENT'=>'תאריך משלוח:',
 'LBL_SUBJECT'=>'נושא: ',
 'LBL_BODY'=>'גוף ההודעה:',
