@@ -83,7 +83,7 @@ $mod_strings = Array(
 'NTC_COPY_SHIPPING_ADDRESS'=>'העתק כתובת משלוח לכתובת חיוב',
 'NTC_REMOVE_MEMBER_ORG_CONFIRMATION'=>'?האם אתה בטוח שאתה רוצה להסיר את רשומה זו כחבר ארגון',
 'LBL_DUPLICATE'=>'אפשרות לחשבון כפול',
-'MSG_DUPLICATE' => 'Creating this vtiger_account may vtiger_potentialy create a duplicate vtiger_account. You may either select an vtiger_account from the list below or you may click on Create New Account to continue creating a new vtiger_account with the previously entered data.',
+'MSG_DUPLICATE' => '.יצירת חשבון זה עשויה ליצור חשבונות כפולים. אפשר לבחור משתמש מהרשימה למטה או להמשיך בתהליךעם הנתונים הקודמים',
 
 'LBL_INVITEE'=>'אנשי קשר',
 'ERR_DELETE_RECORD'=>"חובה לציין מספר רשומה על מנת למחוק חשבון",
@@ -114,7 +114,7 @@ $mod_strings = Array(
 'LBL_PARTNER'=>'שוטף',
 
 // Added for 4GA
-'LBL_TOOL_FORM_TITLE'=>'Account Tools',
+'LBL_TOOL_FORM_TITLE'=>'כלי חשבון',
 //Added for 4GA
 'Subject'=>'נושא',
 'Quote Name'=>'שם',
