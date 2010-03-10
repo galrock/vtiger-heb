@@ -38,7 +38,7 @@ $mod_strings = Array(
 'LBL_MODIFIED_BY'=>'עבר שינוי על ידי',
 'LBL_TYPE'=>'סוג',
 
-'LBL_PIPELINE_FORM_TITLE'=>'My Pipeline',
+'LBL_PIPELINE_FORM_TITLE'=>'הערוצים שלי',
 
 'ERR_ONE_CHAR'=>'נא להכניס לפחות אות אחת או מספר אחד לחיפוש ...',
 
