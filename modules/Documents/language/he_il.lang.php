@@ -121,18 +121,18 @@ $mod_strings = Array(
 'Platform'=>'פלטפורמה',
 'Assigned To'=>'משוייך ל',
 // Module Sequence Numbering
-'Note No' => 'Document No',
+'Note No' => 'מספר מסמך',
 // END
 
 // Documents module
-'LBL_EMPTY_FOLDERS' => 'Empty Folders',
-'LBL_VIEW_EMPTY_FOLDERS' => 'View Empty Folders',
-'LBL_NO_DOCUMENTS' => 'No Documents',
-'LBL_DESCRIPTION' => 'Description',
-'FILE_HAS_NO_DATA'=>'The selected file has no data or a invalid file',
+'LBL_EMPTY_FOLDERS' => 'תיקייה ריקה',
+'LBL_VIEW_EMPTY_FOLDERS' => 'פתח תיקייה ריקה',
+'LBL_NO_DOCUMENTS' => 'אין מסמכים',
+'LBL_DESCRIPTION' => 'תיאור',
+'FILE_HAS_NO_DATA'=>'אין מידע לקובץ הנבחר או קובץ לא חוקי',
 
-'LBL_MAXIMUM_20'=>'Maximum 20',
-'LBL_MAXIMUM_50'=>'Maximum 50',
+'LBL_MAXIMUM_20'=>'מקסימום 20',
+'LBL_MAXIMUM_50'=>'מקסימום 50',
 );
 
 ?>
