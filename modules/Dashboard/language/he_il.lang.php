@@ -51,8 +51,8 @@ $mod_strings = Array(
 'LBL_DATE_START'=>'תאריך התחלה:',
 'LBL_DATE_END'=>'תאריך סיום:',
 //Added for 5.0 
-'LBL_NO_PERMISSION'=>'Sorry, you don\'t have access to view the Graph for this module',
-'LBL_NO_PERMISSION_FIELD'=>'Sorry, you don\'t have access to view the Graph for this module or for the Field',
+'LBL_NO_PERMISSION'=>'מצטערים, אין לך הרשאת צפייה בגרף זה.',
+'LBL_NO_PERMISSION_FIELD'=>'מצטערים, אין לך הרשאת צפייה בגרף זה.',
 
 "leadsource" => "קשרים מובילים לפי מקור",
 "leadstatus" => "קשרים מובילים לפי מצב",
