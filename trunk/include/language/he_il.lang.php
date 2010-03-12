@@ -43,6 +43,7 @@
 
 
 $app_strings = Array(
+'THE_EMAILID'=>'מזאה דוא&#039;ל',
 'NO_DATA_AVAILABLE_WITH_SPECIFIED_PERIOD'=>'אין נתונים על התקופה המבוקשת',
 'LABEL_SET_SH_TAX_FOR_COLON'=>'Set S&H Tax for :',
 'LABEL_SET_TAX_FOR_X'=>'הגדר מס על x',
