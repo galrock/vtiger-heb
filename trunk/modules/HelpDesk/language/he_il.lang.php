@@ -22,14 +22,14 @@
 
 $mod_strings = Array(
 // Added in release 4.0
-'LBL_MODULE_NAME'=>'Trouble Tickets',
-'LBL_GROUP'=>'Group',
-'LBL_ACCOUNT_NAME'=>'Account Name',
-'LBL_CONTACT_NAME'=>'Contact Name',
-'LBL_SUBJECT'=>'Subject',
-'LBL_NEW_FORM_TITLE' => 'New Ticket',
-'LBL_DESCRIPTION'=>'Description',
-'NTC_DELETE_CONFIRMATION'=>'Are you sure you want to delete this record?',
+'LBL_MODULE_NAME'=>'כרטיס פנייה',
+'LBL_GROUP'=>'קבוצה',
+'LBL_ACCOUNT_NAME'=>'שם לקוח',
+'LBL_CONTACT_NAME'=>'שם איש קשר',
+'LBL_SUBJECT'=>'נושא',
+'LBL_NEW_FORM_TITLE' => 'פנייה חדשה',
+'LBL_DESCRIPTION'=>'תיאור',
+'NTC_DELETE_CONFIRMATION'=>'האם אתה בטוח שברצונך למחוק את הרשומה?',
 'LBL_CUSTOM_FIELD_SETTINGS'=>'Custom Field Settings:',
 'LBL_PICKLIST_FIELD_SETTINGS'=>'Picklist Field Settings:',
 'Leads'=>'Lead',
