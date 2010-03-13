@@ -78,10 +78,10 @@ $mod_strings = Array(
 'NTC_COPY_SHIPPING_ADDRESS'=>'העתקת כתובת המשלוח לכתובת החיוב',
 'NTC_REMOVE_MEMBER_ORG_CONFIRMATION'=>'האם להסיר רשומה זו בתור ארגון חבר?',
 'LBL_DUPLICATE'=>'אפשרות לשאלה/תשובה כפולה',
-'MSG_DUPLICATE' => 'Creating this vtiger_account may vtiger_potentialy create a duplicate vtiger_account. You may either select an vtiger_account from the list below or you may click on Create New Faq to continue creating a new vtiger_account with the previously entered data.',
+'MSG_DUPLICATE' => '.יצירת חשבון זה עשויה ליצור חשבונות כפולים. אפשר לבחור משתמש מהרשימה למטה או להמשיך בתהליך עם הנתונים הקודמים',
 
 'LBL_INVITEE'=>'אנשי קשר',
-'ERR_DELETE_RECORD'=>"A record number must be specified to delete the vtiger_account.",
+'ERR_DELETE_RECORD'=>"חובה לציין מספר רשומה בכדי למחוק את החשבון",
 
 'LBL_SELECT_ACCOUNT'=>'בחירת שאלה/תשובה',
 'LBL_GENERAL_INFORMATION'=>'מידע כללי',
