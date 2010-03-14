@@ -21,6 +21,9 @@
  ********************************************************************************/
 
 $mod_strings = Array(
+'LBL_HOLDFOLLOWUP'=>'הפסק מעקב על',
+'LBL_ACTIVITY_NOTIFICATION'=>'שוייכה אלייך פעילות אשר מתקיימת ב',
+'LBL_ACTIVITY_INVITATION'=>'הוזמנת לפעילות אשר מתקיימת ב',
 'LBL_DETAILS_STRING'=>'הפרטים',
 'LBL_HR'=>'ש',
 'LBL_MIN'=>'דק',
